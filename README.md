@@ -1,2 +1,2 @@
 # Calculator-Electricity
-#ICT 602
+ ICT602 | Individual Assignment
